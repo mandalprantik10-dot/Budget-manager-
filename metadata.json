@@ -1,0 +1,6 @@
+{
+  "name": "Budget Manager",
+  "description": "A modern, sleek budget and expense manager with visual analytics, category budgets, savings goals, AI spending insights, and CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
